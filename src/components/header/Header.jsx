@@ -9,7 +9,7 @@ import {
   DrawerTitle,
   DrawerTrigger,
 } from "../ui/drawer";
-import NavLinks from "./navLinks";
+import NavLinks from "./NavLinks";
 import AuthButtonsNav from "./AuthButtonsNav";
 
 const Header = () => {
